@@ -1,8 +1,8 @@
 # Desafio3-boorcamp_devops
 
-# ############ #
-#  Importante! #
-# ############ #
+# ############### #
+# # Importante! # #
+# ############### #
 
 # Para este desafio realize la registracion de una cuenta en AWS, la misma cuenta con un trial de 30 dias. No es un dato menor ya que se puede virtualizar el entorno de AWS pero preferi no hacerlo ya que eso acarreaba varias instalaciones y configuraciones. Aclarado esto, en este 'step by step', solo mencionare los pasos para realizar este desafio en la consola de AWS, ademas adjuntare fotos ilustrativas de lo que se ingresa y como sale la ejecucion de los scripts por consola.
 
